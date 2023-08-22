@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //sample commit
             int n1 = 0, n2 = 1, n3, i, number;
             Console.Write("Enter the number of elements: ");
             number = int.Parse(Console.ReadLine());
