@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\my programs\\Fibonacci\\Fibonacci\\Fibonacci.csproj": {}
+    "F:\\sample programs(github)\\Fibonacci\\Fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\my programs\\Fibonacci\\Fibonacci\\Fibonacci.csproj": {
+    "F:\\sample programs(github)\\Fibonacci\\Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\my programs\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+        "projectUniqueName": "F:\\sample programs(github)\\Fibonacci\\Fibonacci.csproj",
         "projectName": "Fibonacci",
-        "projectPath": "C:\\Users\\HP\\Desktop\\my programs\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+        "projectPath": "F:\\sample programs(github)\\Fibonacci\\Fibonacci.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\my programs\\Fibonacci\\Fibonacci\\obj\\",
+        "outputPath": "F:\\sample programs(github)\\Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
